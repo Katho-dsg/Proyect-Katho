@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Kato System">
+  <!-- Ícono de la app: panel biselado azul noche con el núcleo (rombo) en amarillo de señal -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#10254B"/>
+      <stop offset="1" stop-color="#040A17"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="#040A17"/>
+  <path d="M40 40h352l80 80v352H120l-80-80z" fill="url(#bg)" stroke="#1C56A6" stroke-width="6"/>
+  <path d="M256 104l112 152-112 152-112-152z" fill="#F5E71B" fill-opacity=".14" stroke="#F5E71B" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M144 256h224M256 104l-44 152 44 152 44-152z" fill="none" stroke="#F5E71B" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M40 392l80 80" stroke="#4A8FDB" stroke-width="6"/>
+  <path d="M392 40l80 80" stroke="#4A8FDB" stroke-width="6"/>
+</svg>
